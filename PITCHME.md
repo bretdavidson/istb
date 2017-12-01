@@ -64,13 +64,14 @@ Recent blog post from Jonathan Rochkind https://bibwild.wordpress.com/2017/10/19
 ---
 @title[Software Maturity Description]
 ## From Stack Overflow:
-1. People know how to use it, know its possibilities and limitations
-1. People know what the typical usage scenarios are, patterns, what are good usage scenarios for this technology so that it shows its best
-1. People have found out how to deal with limitations/bugs, there is a community knowledge and help out there
-1. The technology is trusted enough to be used not only by individuals but in productive commercial environment as well
+1. People know how to use it and its limitations
+1. People know what the typical usage scenarios are
+1. There is a community of knowledge to deal with limitations/bugs
+1. The technology is trusted enough to be used by individuals AND institutions
 
 Note:
 https://stackoverflow.com/a/910053/307106 stack over flow answer above
+edits my own
 
 ---
 @title[Discussion]
