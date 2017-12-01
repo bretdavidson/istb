@@ -3,9 +3,14 @@
 
 ---
 @title[Who are we?]
-Jason Ronallo, Department Head, Digital Library Initiatives
-Bret Davidson, Associate Head, Digital Library Initiatives
-Trevor Thornton, Business and Technology Applications Analyst
+Jason Ronallo
+
+Bret Davidson
+
+Trevor Thornton
+
+Note:
+Titles
 
 ---
 @title[Goals]
@@ -24,10 +29,12 @@ Trevor Thornton, Business and Technology Applications Analyst
 ---
 @title[Quote 1]
 
-"Who would be the best person on your team to talk with about the technical requirements and skills needed for us to install SUMA and get it up and running. For example, do we need a computer programmer with such and such skills. I’m sure you have good documentation available, however, we would like to talk with someone. We are also curious as to how much time it would take to get SUMA working for us. I am not sure we have the expertise in-house."
+"Who would be the best person on your team to talk with about the technical requirements and skills needed for us to install SUMA and get it up and running. For example, do we need a computer programmer with such and such skills &hellip; I am not sure we have the expertise in-house."
 
 Note:
 The following quote is from an email from a librarian at a research university seeking to install Suma (used with permission).
+
+"Who would be the best person on your team to talk with about the technical requirements and skills needed for us to install SUMA and get it up and running. For example, do we need a computer programmer with such and such skills. I’m sure you have good documentation available, however, we would like to talk with someone. We are also curious as to how much time it would take to get SUMA working for us. I am not sure we have the expertise in-house."
 
 ---
 @title[Quote 2]
@@ -44,4 +51,10 @@ And from a librarian at a research university (also used with permission) on can
 
 ---
 @title[Discussion]
-One of the goals of the grant is to make your outputs shareable and reusable outside of your own institution and to build a community of practice around sharing and reuse. What **approaches** will you take with your own projects to achieve reuse? What **challenges** do you think you'll face to allowing for reuse?
+
+What **approaches** will you take with your own projects to achieve reuse?
+
+What **challenges** do you think you'll face to allowing for reuse?
+
+Note:
+One of the goals of the grant is to make your outputs shareable and reusable outside of your own institution and to build a community of practice around sharing and reuse.
