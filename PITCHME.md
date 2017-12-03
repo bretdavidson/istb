@@ -3,14 +3,15 @@
 
 ---
 @title[Who are we?]
+## Facilitators
+
 Jason Ronallo
 
 Bret Davidson
 
-Trevor Thornton
-
 Note:
 Titles
+We may go around the room if intros haven't been sufficient.
 
 ---
 @title[Goals]
@@ -25,6 +26,9 @@ Titles
 @title[Why are we here?]
 
 [Beyond Open Source](http://journal.code4lib.org/articles/11148)
+
+Note:
+Just to give you an idea of some of the work we've done in this area, I'm going to talk about Suma, our open source assessment toolkit and thinking we've done around software availability.
 
 ---
 @title[Quote 1]
