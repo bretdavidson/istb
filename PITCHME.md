@@ -1,16 +1,9 @@
 @title[Introduction]
 ## Immersive Scholar Technology Breakout
 
----
-@title[Who are we?]
-## Facilitators
-
-Jason Ronallo
-
-Bret Davidson
+Jason Ronallo &amp;	Bret Davidson, Facilitators
 
 Note:
-Titles
 We may go around the room if intros haven't been sufficient.
 
 ---
